@@ -9,7 +9,7 @@ const options = {
 };
 
 const host = {
-  BASE_URL: "https://apis-ryuukenxyz-swagger.vercel.app", // Ganti dengan URL yang sesuai
+  BASE_URL: "https://swagger-api-nine.vercel.app", // Ganti dengan URL yang sesuai
   // Contoh: https://domain.com
 };
 
